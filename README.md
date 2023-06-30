@@ -1,4 +1,9 @@
 # Documentatie anomaly detectie - Arduino Nano 33 BLE sense
+In deze GitHub repository staan alle documenten opgeslagen die gebruikt zijn voor onze geluids anomaly opdracht. In het mapje met "ondersteunend materiaal" zijn dingen als het eindrapport, de eindpresentatie en het PvA te vinden. Onder code is de laatste versie van de code te vinden die is gebruikt voor de opdracht. Onder Edge impulse is een link en eventuele ondersteunende informatie voor edge impulse te vinden. We hopen met behulp van deze repository voldoende informatie te geven voor de overdracht van ons werk. 
+
+Mochten er vragen zijn aarzel dan niet om even een mailtje te sturen naar yorrid.van.groningen@hva.nl of yorrid08@gmail.com, dan doen wij ons best om verder te helpen. Wij gaan er vanuit dat de informatie binnen deze repository op een juiste en zorgvuldige manier gebruikt en bewaard wordt.
+
+## Setup van de code en het board
 
 **Exporteer het Edge Impulse model**
 In Edge Impulse ga naar het model en vervolgens naar deployment. Kies er hier voor om het model te exporteren als Arduino library.
