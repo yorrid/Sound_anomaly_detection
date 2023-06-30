@@ -12,7 +12,7 @@ Voeg de via Edge Impulse gedownloade zip file toe. De library is nu toegevoegd a
 Open het bestand met de code, ga naar 'sketch' en kies weer 'include library'. Kies vervolgens de net toegevoede library.
 In de aangeleverde code zal al een library included zijn. Deze moet dus vervangen worden door het gedownloade model.
 
-<img width="212" alt="Scherm­afbeelding 2023-06-26 om 12 31 27" src="https://github.com/yorrid/tatasteel_geluidsopdracht/assets/32573944/1fec5564-5168-4b32-985c-77cc8215b981">
+![123423](https://github.com/yorrid/Sound_anomaly_detection/assets/32573944/0c589b29-bc39-460d-a14b-906d81198805)
 
 **Pas de coordinaten aan**
 In de code worden de variabele LATITUDE en LONGITUDE defined. Deze variabele hebben een standaard waarden en deze zijn bij oplevering
