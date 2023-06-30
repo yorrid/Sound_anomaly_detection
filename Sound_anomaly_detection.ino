@@ -41,7 +41,9 @@
 
 /* Includes ---------------------------------------------------------------- */
 #include <PDM.h>
+
 #include <demo_inferencing.h>
+
 #include <ArduinoJson.h>
 #include <ArduinoBLE.h>
 
